@@ -1,0 +1,5 @@
+1 border: border-box; ------->
+     here this will do border inside the particular element by default it was placing border outside the element we dont want that because if we increase the sieze of the element then it will increase border also we dont want to increase border outside if we increase the sieze of the element the content should be goo smaller when we increase sieze of the element   
+
+2 font-size: 0.85 rem: ---->
+     here we will give the font size in rem em instead of px because it will make website responsive when we will reduce screen size the it will automatically adjust according to screen 
